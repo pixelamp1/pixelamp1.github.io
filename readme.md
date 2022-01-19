@@ -7,3 +7,6 @@ hello, click on some of the time wasters below to get started.
 [gpop.io](https://pixelamp-isgay.github.io/gpop.io/)
 [madalin stunt cars multiplayer](https://pixelamp-isgay.github.io/madalinscm/)
 [krunker.io](https://pixelamp-isgay.github.io/krunker.io/)
+
+
+all games go to their respected owners, im just goofin around for school (-ω-`)
