@@ -1,5 +1,5 @@
 hello, click on some of the time wasters below to get started.
 
-https://pixelamp-isgay.github.io/cowokies/
-https://pixelamp-isgay.github.io/fnf/
-https://pixelamp-isgay.github.io/tetr.io/
+[cookie clicker](https://pixelamp-isgay.github.io/cowokies/)
+[friday night funkin'](https://pixelamp-isgay.github.io/fnf/)
+[gpop.io](https://pixelamp-isgay.github.io/gpop.io/)
