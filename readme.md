@@ -8,6 +8,7 @@ hello, click on some of the time wasters below to get started.
 [madalin stunt cars multiplayer](https://pixelamp-isgay.github.io/madalinscm/)
 [krunker.io](https://pixelamp-isgay.github.io/krunker.io/)
 [pokemon](https://pixelamp-isgay.github.io/pokemongames/)
+[shellshock.io](https://pixelamp-isgay.github.io/shellshock/)
 
 
 all games go to their respected owners, im just goofin around for school (-ω-`)
