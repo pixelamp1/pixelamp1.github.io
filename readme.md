@@ -1,7 +1,7 @@
 loading
 
 <iframe
-  src="https://poki.com/"
+  src="https://www.y8.com/"
   style="
     position: fixed;
     top: 0px;
