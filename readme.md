@@ -11,6 +11,7 @@ hello, click on some of the time wasters below to get started.
 [shellshock.io](https://pixelamp-isgay.github.io/shellshock/)
 [smashkarts.io](https://pixelamp-isgay.github.io/smashkarts/)
 [toss the turtle](https://pixelamp-isgay.github.io/tosstheturtle/)
+[buildroyale.io](https://pixelamp-isgay.github.io/build-royale/)
 
 
 all games go to their respected owners, im just goofin around for school (-ω-`)
