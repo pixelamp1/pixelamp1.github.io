@@ -12,7 +12,7 @@ hello, click on some of the time wasters below to get started.
 [smashkarts.io](https://pixelamp-isgay.github.io/smashkarts/)
 [buildroyale.io](https://pixelamp-isgay.github.io/build-royale/)
 [slope](https://pixelamp-isgay.github.io/slope/)
-[incognito](https://pixelamp-isgay.github.io/incognito/)
+[incognito](https://pixelamp-isgay.github.io/projects/incognito/)
 [daedalOS](https://pixelamp-isgay.github.io/daedalOS/)
 
 
