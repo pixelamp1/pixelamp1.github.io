@@ -10,9 +10,8 @@ hello, click on some of the time wasters below to get started.
 [pokemon](https://pixelamp-isgay.github.io/pokemongames/)
 [shellshock.io](https://pixelamp-isgay.github.io/shellshock/)
 [smashkarts.io](https://pixelamp-isgay.github.io/smashkarts/)
-[toss the turtle](https://pixelamp-isgay.github.io/tosstheturtle/)
 [buildroyale.io](https://pixelamp-isgay.github.io/build-royale/)
-[curveball](https://pixelamp-isgay.github.io/curveball/)
+[slope](https://pixelamp-isgay.github.io/slope/)
 
 
 all games go to their respected owners, im jus goofin around for school (-ω-`)
