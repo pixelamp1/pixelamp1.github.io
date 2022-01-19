@@ -12,6 +12,7 @@ hello, click on some of the time wasters below to get started.
 [smashkarts.io](https://pixelamp-isgay.github.io/smashkarts/)
 [buildroyale.io](https://pixelamp-isgay.github.io/build-royale/)
 [slope](https://pixelamp-isgay.github.io/slope/)
+[incognito](https://pixelamp-isgay.github.io/incognito/)
 
 
 all games go to their respected owners, im jus goofin around for school (-ω-`)
