@@ -6,7 +6,7 @@ hello, click on some of the time wasters below to get started.
 [friday night funkin'](https://pixelamp-isgay.github.io/fnf/)
 [gpop.io](https://pixelamp-isgay.github.io/gpop.io/)
 [madalin stunt cars multiplayer](https://pixelamp-isgay.github.io/madalinscm/)
-[krunker.io](https://pixelamp-isgay.github.io/krunkr.io/)
+[krunker.io](https://pixelamp-isgay.github.io/krunkr/)
 [pokemon](https://pixelamp-isgay.github.io/pokemongames/)
 [shellshock.io](https://pixelamp-isgay.github.io/shellshock/)
 [smashkarts.io](https://pixelamp-isgay.github.io/smashkarts/)
