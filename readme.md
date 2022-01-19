@@ -9,6 +9,7 @@ hello, click on some of the time wasters below to get started.
 [krunker.io](https://pixelamp-isgay.github.io/krunker.io/)
 [pokemon](https://pixelamp-isgay.github.io/pokemongames/)
 [shellshock.io](https://pixelamp-isgay.github.io/shellshock/)
+[smashkarts.io](https://pixelamp-isgay.github.io/smashkarts/)
 
 
 all games go to their respected owners, im just goofin around for school (-ω-`)
