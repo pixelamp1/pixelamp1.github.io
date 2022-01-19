@@ -1,18 +1,4 @@
-loading
+hello, click on some of the time wasters below to get started.
 
-<iframe
-  src="https://www.y8.com/"
-  style="
-    position: fixed;
-    top: 0px;
-    bottom: 0px;
-    right: 0px;
-    width: 100%;
-    border: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    z-index: 999999;
-    height: 100%;
-  ">
-</iframe>
+pixelamp-isgay.github.io/cowokies/
+pixelamp-isgay.github.io/fnf/
