@@ -12,6 +12,7 @@ hello, click on some of the time wasters below to get started.
 [smashkarts.io](https://pixelamp-isgay.github.io/smashkarts/)
 [toss the turtle](https://pixelamp-isgay.github.io/tosstheturtle/)
 [buildroyale.io](https://pixelamp-isgay.github.io/build-royale/)
+[curveball](https://pixelamp-isgay.github.io/curveball/)
 
 
 all games go to their respected owners, im just goofin around for school (-ω-`)
