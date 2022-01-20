@@ -11,7 +11,7 @@ hello, click on some of the time wasters below to get started.
 [shellshock.io](https://pixelamp-isgay.github.io/projects/shellshock.io/)
 [smashkarts.io](https://pixelamp-isgay.github.io/projects/smashkarts.io/)
 [buildroyale.io](https://pixelamp-isgay.github.io/projects/buildroyale.io/)
-[slope](https://pixelamp-isgay.github.io/projects/projects/slope/)
+[slope](https://pixelamp-isgay.github.io/projects/slope/)
 [incognito](https://pixelamp-isgay.github.io/projects/incognito/)
 [daedalOS](https://pixelamp-isgay.github.io/projects/daedalOS/)
 [1](https://pixelamp-isgay.github.io/projects/1/)
