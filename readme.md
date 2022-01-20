@@ -30,6 +30,11 @@ hello, click on some of the time wasters below to get started.
 [rooftop snipers](https://pixelamp-isgay.github.io/projects/rooftop-snipers/)
 [sand game](https://pixelamp-isgay.github.io/projects/sand-game/)
 [tunnel rush](https://pixelamp-isgay.github.io/projects/tunnel-rush/)
+[powerline.io](https://pixelamp-isgay.github.io/projects/powerline.io/)
+[browserquest](https://pixelamp-isgay.github.io/projects/browserquest/)
+[pokemon showdown](https://pixelamp-isgay.github.io/projects/pokemonshowdown/)
+[gartic phone](https://pixelamp-isgay.github.io/projects/garticphone/)
+[spelunky](https://pixelamp-isgay.github.io/projects/spelunkyHTML5/)
 
 all games go to their respected owners, im jus goofin around for school (-ω-`)
 and if you want your game/site removed, tell me.
