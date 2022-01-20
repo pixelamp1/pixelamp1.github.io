@@ -35,6 +35,7 @@ hello, click on some of the time wasters below to get started.
 [pokemon showdown](https://pixelamp-isgay.github.io/projects/pokemonshowdown/)
 [gartic phone](https://pixelamp-isgay.github.io/projects/garticphone/)
 [spelunky](https://pixelamp-isgay.github.io/projects/spelunkyHTML5/)
+[madalin stunt cars 2](https://pixelamp-isgay.github.io/projects/madalin%20stunt%20cars%202/)
 
 all games go to their respected owners, im jus goofin around for school (-ω-`)
 and if you want your game/site removed, tell me.
