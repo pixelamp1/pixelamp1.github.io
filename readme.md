@@ -14,7 +14,22 @@ hello, click on some of the time wasters below to get started.
 [slope](https://pixelamp-isgay.github.io/projects/projects/slope/)
 [incognito](https://pixelamp-isgay.github.io/projects/incognito/)
 [daedalOS](https://pixelamp-isgay.github.io/projects/daedalOS/)
-
+[1](https://pixelamp-isgay.github.io/projects/1/)
+[2048](https://pixelamp-isgay.github.io/projects/2048/)
+[doge miner](pixelamp-isgay.github.io/projects/DogeMiner/)
+[chill radio](pixelamp-isgay.github.io/projects/chill-radio/)
+[evil glitch](pixelamp-isgay.github.io/projects/evil-glitch/)
+[idle shark](https://pixelamp-isgay.github.io/projects/idle-shark/)
+[minecraft classic](https://pixelamp-isgay.github.io/projects/minecraft-classic/)
+[minesweeper](https://pixelamp-isgay.github.io/projects/minesweeper/)
+[n-gon](https://pixelamp-isgay.github.io/projects/n-gon/)
+[ninja](https://pixelamp-isgay.github.io/projects/ninja/)
+[ns-shaft](https://pixelamp-isgay.github.io/projects/ns-shaft/)
+[polybranch](https://pixelamp-isgay.github.io/projects/polybranch/)
+[retro bowl](https://pixelamp-isgay.github.io/projects/retro-bowl/)
+[rooftop snipers](https://pixelamp-isgay.github.io/projects/rooftop-snipers/)
+[sand game](https://pixelamp-isgay.github.io/projects/sand-game/)
+[tunnel rush](https://pixelamp-isgay.github.io/projects/tunnel-rush/)
 
 all games go to their respected owners, im jus goofin around for school (-ω-`)
 and if you want your game/site removed, tell me.
