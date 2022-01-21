@@ -38,6 +38,7 @@ hello, click on some of the time wasters below to get started.
 [treasure arena](https://pixelamp-isgay.github.io/projects/treasurearena/)
 [idle breakout](pixelamp-isgay.github.io/projects/idlebreakout/)
 [gun mayhem redux](pixelamp-isgay.github.io/projects/gunmayhemredux/)
+[discord (wip)](pixelamp-isgay.github.io/projects/discord/)
 
 all games go to their respected owners, im jus goofin around for school (-ω-`)
 and if you want your game/site removed, tell me.
