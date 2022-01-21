@@ -37,6 +37,7 @@ hello, click on some of the time wasters below to get started.
 [madalin stunt cars 2](https://pixelamp-isgay.github.io/projects/madalin%20stunt%20cars%202/)
 [treasure arena](https://pixelamp-isgay.github.io/projects/treasurearena/)
 [idle breakout](pixelamp-isgay.github.io/projects/idlebreakout/)
+[gun mayhem redux](pixelamp-isgay.github.io/projects/gunmayhemredux/)
 
 all games go to their respected owners, im jus goofin around for school (-ω-`)
 and if you want your game/site removed, tell me.
