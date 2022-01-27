@@ -47,9 +47,10 @@ hello, click on some of the time wasters below to get started.
 [free rider hd](https://pixelamp-isgay.github.io/projects/freeriderhd/)
 [arena5](https://pixelamp-isgay.github.io/projects/arena5/)
 [worlds biggest pac-man](https://pixelamp-isgay.github.io/projects/worldsbiggestpacman/)
+
 [other sites](https://pixelamp-isgay.github.io/project/othersites/)
 
-if you play these games when you're not supposed to, i will put your name publicly on a subpage of this website, stop it.
+i'm not gonna say what the next domain is gonna be, just ask me if you know who made this site :)
 
-all games go to their respected owners, im jus goofin around for school (-ω-`)
-and if you want your game/site removed, tell me.
+
+all games go to their respected owners, and if you want your game/site removed, tell me.
