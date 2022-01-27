@@ -49,12 +49,15 @@ since im too lazy to sort a-z, just use ctrl+f to search for games, and if it do
 [worlds biggest pac-man](https://youmu.cf/projects/worldsbiggestpacman/)
 [1v1.lol](https://youmu.cf/projects/1v1.lol/)
 [drift hunters](https://youmu.cf/projects/drifthunters/)
-[youmu.cfpack joyride](https://youmu.cf/projects/youmu.cfpackjoyride/)
+[jetpack joyride](https://youmu.cf/projects/jetpackjoyride/)
 [the impossible quiz](https://youmu.cf/projects/theimpossiblequiz/)
 [factory balls forever](https://youmu.cf/projects/factoryballsforever/)
 [papa's burgeria](https://youmu.cf/projects/papasburgeria/)
 [tanuki sunset](https://youmu.cf/projects/tanukisunset/)
 [popcat.click](https://youmu.cf/projects/popcat.click/)
+[wanderers.io](https://pixelamp-isgay.github.io/projects/wanderers.io/)
+[wilds.io](https://pixelamp-isgay.github.io/projects/wilds.io/)
+[cards against humanity online](https://pixelamp-isgay.github.io/projects/cardsagainsthumanityonline/)
 
 [other sites](https://youmu.cf/project/othersites/)
 
