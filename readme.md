@@ -56,7 +56,7 @@ since im too lazy to sort a-z, just use ctrl+f to search for games, and if it do
 [papa's burgeria](https://pixelamp-isgay.github.io/projects/papasburgeria/)
 [tanuki sunset](https://pixelamp-isgay.github.io/projects/tanukisunset/)
 
-[other sites](https://pixelamp-isgay/project/othersites/)
+[other sites](https://pixelamp-isgay.github.io/project/othersites/)
 
 
 
