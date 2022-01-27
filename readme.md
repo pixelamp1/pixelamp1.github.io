@@ -7,7 +7,6 @@ since im too lazy to sort a-z, just use ctrl+f to search for games, and if it do
 [gpop.io](https://youmu.cf/projects/gpop.io/)
 [madalin stunt cars multiplayer](https://youmu.cf/projects/madalincarsmultiplayer/)
 [krunker.io](https://youmu.cf/projects/krunkr/)
-[pokemon](https://https://youmu.cf/projects/pokemon/)
 [shellshock.io](https://youmu.cf/projects/shellshock.io/)
 [smashkarts.io](https://youmu.cf/projects/smashkarts.io/)
 [buildroyale.io](https://youmu.cf/projects/buildroyale.io/)
@@ -59,6 +58,7 @@ since im too lazy to sort a-z, just use ctrl+f to search for games, and if it do
 [wilds.io](https://youmu.cf/projects/wilds.io/)
 [cards against humanity online](https://youmu.cf/projects/cardsagainsthumanityonline/)
 
+[pokemon](https://https://youmu.cf/projects/pokemon/)
 [other sites](https://youmu.cf/project/othersites/)
 
 
