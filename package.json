@@ -1,0 +1,47 @@
+{
+  "name": "chat",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js --exit",
+    "dev": "watchify src/client.js -t brfs -t [ envify --NODE_ENV development ] -o html/bundle.js",
+    "coverage": "istanbul cover node_modules/mocha/bin/_mocha -- -R spec --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/super3/chat.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/super3/chat/issues"
+  },
+  "homepage": "https://github.com/super3/chat#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "brfs": "^2.0.0",
+    "browserify": "^16.2.3",
+    "dog-names": "^2.0.0",
+    "dotenv": "^8.0.0",
+    "envify": "^4.1.0",
+    "ioredis": "^4.0.0",
+    "koa": "^2.5.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-route": "^3.2.0",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.2",
+    "istanbul": "^1.1.0-alpha.1",
+    "mocha": "^6.0.1",
+    "watchify": "^3.11.0",
+    "xo": "^0.24.0"
+  },
+  "xo": {
+    "ignores": [
+      "html/js/custom.js"
+    ]
+  }
+}
