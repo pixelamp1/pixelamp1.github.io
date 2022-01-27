@@ -58,10 +58,13 @@ since im too lazy to sort a-z, just use ctrl+f to search for games, and if it do
 [wilds.io](https://youmu.cf/projects/wilds.io/)
 [cards against humanity online](https://youmu.cf/projects/cardsagainsthumanityonline/)
 
-[pokemon](https://https://youmu.cf/projects/pokemon/)
+
+[pokemon](https://youmu.cf/projects/pokemon/)
 
 [other sites](https://youmu.cf/project/othersites/)
 
 
 
 all games go to their respected owners, if you want your game/site removed, tell me.
+
+[about me](https://youmu.cf/aboutme/)
