@@ -55,9 +55,9 @@ since im too lazy to sort a-z, just use ctrl+f to search for games, and if it do
 [papa's burgeria](https://youmu.cf/projects/papasburgeria/)
 [tanuki sunset](https://youmu.cf/projects/tanukisunset/)
 [popcat.click](https://youmu.cf/projects/popcat.click/)
-[wanderers.io](https://pixelamp-isgay.github.io/projects/wanderers.io/)
-[wilds.io](https://pixelamp-isgay.github.io/projects/wilds.io/)
-[cards against humanity online](https://pixelamp-isgay.github.io/projects/cardsagainsthumanityonline/)
+[wanderers.io](https://youmu.cf/projects/wanderers.io/)
+[wilds.io](https://youmu.cf/projects/wilds.io/)
+[cards against humanity online](https://youmu.cf/projects/cardsagainsthumanityonline/)
 
 [other sites](https://youmu.cf/project/othersites/)
 
