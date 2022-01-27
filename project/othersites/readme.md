@@ -1,4 +1,4 @@
-[totallyscience](https://pixelamp-isgay.github.io/project/othersites/totallyscience)
-[addicting games](https://pixelamp-isgay.github.io/project/othersites/addictinggames)
-[twoplayergames](https://pixelamp-isgay.github.io/project/othersites/twoplayergames)
-[y8](https://pixelamp-isgay.github.io/project/othersites/y8/)
+[totallyscience](https://youmu.cf/project/othersites/totallyscience)
+[addicting games](https://youmu.cf/project/othersites/addictinggames)
+[twoplayergames](https://youmu.cf/project/othersites/twoplayergames)
+[y8 (not working)](https://youmu.cf/project/othersites/y8/)
