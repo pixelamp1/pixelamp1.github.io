@@ -55,6 +55,7 @@ since im too lazy to sort a-z, just use ctrl+f to search for games, and if it do
 [factory balls forever](https://pixelamp-isgay.github.io/projects/factoryballsforever/)
 [papa's burgeria](https://pixelamp-isgay.github.io/projects/papasburgeria/)
 [tanuki sunset](https://pixelamp-isgay.github.io/projects/tanukisunset/)
+[popcat.click](https://pixelamp-isgay.github.io/projects/popcat.click/)
 
 [other sites](https://pixelamp-isgay.github.io/project/othersites/)
 
