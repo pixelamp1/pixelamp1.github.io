@@ -1,6 +1,6 @@
-hello, click on some of the time wasters below to get started.
 
-(p.s. since im too lazy to sort a-z, just use ctrl+f to search for games, and if it doesnt show up,  lmk.)
+
+since im too lazy to sort a-z, just use ctrl+f to search for games, and if it doesnt show up, click on the other sites link and use another site, if that doesn't work for you, let me know
 
 [cookie clicker](https://pixelamp-isgay.github.io/projects/cookie-clicker/)
 [friday night funkin'](https://pixelamp-isgay.github.io/projects/fnf/)
@@ -62,7 +62,6 @@ hello, click on some of the time wasters below to get started.
 
 [other sites](https://pixelamp-isgay/project/othersites/)
 
-next domain is: ha gotchu ask me irl :)
 
-all games go to their respected owners, im jus goofin around for school (-ω-`)
-and if you want your game/site removed, tell me.
+
+all games go to their respected owners, if you want your game/site removed, tell me.
