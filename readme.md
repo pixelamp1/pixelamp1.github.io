@@ -51,8 +51,18 @@ hello, click on some of the time wasters below to get started.
 [arena5](https://pixelamp-isgay.github.io/projects/arena5/)
 [worlds biggest pac-man](https://pixelamp-isgay.github.io/projects/worldsbiggestpacman/)
 [geoguessr](https://pixelamp-isgay.github.io/projects/geoguessr/)
+[1v1.lol](https://pixelamp-isgay.github.io/projects/1v1.lol/)
+[chess](https://pixelamp-isgay.github.io/projects/chess/)
+[drift hunters](https://pixelamp-isgay.github.io/projects/drifthunters/)
+[jetpack joyride](https://ixelamp-isgay.github.io/projects/jetpackjoyride/)
+[the impossible quiz](https://pixelamp-isgay.github.io/projects/theimpossiblequiz/)
+[factory balls forever](https://pixelamp-isgay.github.io/projects/factoryballsforever/)
+[papa's burgeria](https://pixelamp-isgay.github.io/projects/papasburgeria/)
+[tanuki sunset](https://pixelamp-isgay.github.io/projects/tanukisunset/)
 
-if you play these games when you're not supposed to, i will put your name publicly on a subpage of this website, stop it.
+[other sites](https://pixelamp-isgay/project/othersites/)
+
+next domain is: ha gotchu ask me irl :)
 
 all games go to their respected owners, im jus goofin around for school (-ω-`)
 and if you want your game/site removed, tell me.
