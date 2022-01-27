@@ -43,14 +43,11 @@ hello, click on some of the time wasters below to get started.
 [nightpoint.io](https://pixelamp-isgay.github.io/projects/nightpoint.io/)
 [agar.io](https://pixelamp-isgay.github.io/projects/agar.io/)
 [diep.io](https://pixelamp-isgay.github.io/projects/diep.io/)
-[swooop](https://pixelamp-isgay.github.io/projects/swooop/)
 [hexgl](https://pixelamp-isgay.github.io/projects/hexgl/)
-[sinuous](https://pixelamp-isgay.github.io/projects/sinuous/)
 [free rider hd](https://pixelamp-isgay.github.io/projects/freeriderhd/)
-[polycraft](https://pixelamp-isgay.github.io/projects/polycraft/)
 [arena5](https://pixelamp-isgay.github.io/projects/arena5/)
 [worlds biggest pac-man](https://pixelamp-isgay.github.io/projects/worldsbiggestpacman/)
-[geoguessr](https://pixelamp-isgay.github.io/projects/geoguessr/)
+[other sites](https://pixelamp-isgay.github.io/project/othersites/)
 
 if you play these games when you're not supposed to, i will put your name publicly on a subpage of this website, stop it.
 
