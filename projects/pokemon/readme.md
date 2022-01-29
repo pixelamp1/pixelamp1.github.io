@@ -1,4 +1,4 @@
 pankyrmans
 
-[emerald](https://pixelamp-isgay.github.io/projects/pokemon/emerald/)
-[fire red](https://https://pixelamp-isgay.github.io/projects/pokemon/fire%20red/)
+[emerald](https://3coursemealgum.ml/projects/pokemon/emerald/)
+[fire red](https://https://3coursemealgum.ml/projects/pokemon/fire%20red/)
