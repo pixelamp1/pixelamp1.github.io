@@ -2,3 +2,4 @@
 [addicting games](https://youmu.cf/project/othersites/addictinggames)
 [twoplayergames](https://youmu.cf/project/othersites/twoplayergames)
 [y8 (not working)](https://youmu.cf/project/othersites/y8/)
+[arcadespot](https://youmu.cf/project/othersites/arcadespot/)
