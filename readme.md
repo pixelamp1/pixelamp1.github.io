@@ -4,6 +4,8 @@ hello, if you are reading this, you might be using the .html, ([download for the
 
 and also, if you are using the .html, some sites may not work, i will remove these, when said websites go down in my school.
 
+weekly feature : [super mario 64](http://3coursemealgum.ml/projects/super%20mario%2064/)
+
 [1](https://urfatheris.ga/projects/1/)
 [1v1.lol](https://urfatheris.ga/projects/1v1.lol/)
 [2048](https://urfatheris.ga/projects/2048/)
@@ -50,6 +52,7 @@ and also, if you are using the .html, some sites may not work, i will remove the
 [shellshock.io](https://urfatheris.ga/projects/shellshock.io/)
 [skribbl.io](https://urfatheris.ga/projects/skribbl.io/)
 [slope](https://urfatheris.ga/projects/slope/)
+[super mario 64](http://3coursemealgum.ml/projects/super%20mario%2064/)
 [smashkarts.io](https://urfatheris.ga/projects/smashkarts.io/)
 [spelunky](https://urfatheris.ga/projects/spelunkyHTML5/)
 [tanuki sunset](https://urfatheris.ga/projects/tanukisunset/)
