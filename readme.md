@@ -1,5 +1,7 @@
 tip: use ctrl+f, and if u dont see ur game, click other sites
 
+hello, if you are reading this, you are probably using the .html, in which, i would like to tell you, i am not going to be updating all the other domains, when they get taken down, im deleting the repo and cancelling the website.
+
 [1](https://urfatheris.ga/projects/1/)
 [1v1.lol](https://urfatheris.ga/projects/1v1.lol/)
 [2048](https://urfatheris.ga/projects/2048/)
