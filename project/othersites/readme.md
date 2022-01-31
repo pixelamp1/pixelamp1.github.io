@@ -3,3 +3,4 @@
 [twoplayergames](https://urfatheris.ga/project/othersites/twoplayergames)
 [y8 (not working)](https://urfatheris.ga/project/othersites/y8/)
 [arcadespot](https://urfatheris.ga/project/othersites/arcadespot/)
+[emulator.online](https://3coursemealgum.ml/project/othersites/emulator.online/)
