@@ -1,6 +1,8 @@
 tip: use ctrl+f, and if u dont see ur game, click other sites
 
-hello, if you are reading this, you are probably using the .html, in which, i would like to tell you, i am not going to be updating all the other domains, when they get taken down, im deleting the repo and cancelling the website.
+hello, if you are reading this, you might be using the .html, ([download for the .html](https://drive.google.com/uc?id=1msZ_bOOGXs1e2GDB64z2D1QznBv0TdmQ&export=download)) in which, i would like to tell you, i am not going to be updating all the other domains, when they get taken down, im deleting the repo and cancelling the website.
+
+and also, if you are using the .html, 
 
 [1](https://urfatheris.ga/projects/1/)
 [1v1.lol](https://urfatheris.ga/projects/1v1.lol/)
