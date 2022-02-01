@@ -1,10 +1,10 @@
 tip: use ctrl+f, and if u dont see ur game, click other sites
 
-hello, if you are reading this, you might be using the .html, ([download for the .html](https://drive.google.com/uc?id=1msZ_bOOGXs1e2GDB64z2D1QznBv0TdmQ&export=download)) in which, i would like to tell you, i am **not** going to be updating all the other domains, when they get taken down, im cancelling the website it's tied to, but this one will stay up.
-
-and also, if you are using the .html, some sites may not work, i will remove these, when said websites go down in my school.
+download so this site is forever unblocked: ([download for the .html](https://drive.google.com/uc?id=1msZ_bOOGXs1e2GDB64z2D1QznBv0TdmQ&export=download)
+(p.s. rename the file)
 
 weekly feature: [super mario 64](http://3coursemealgum.ml/projects/super%20mario%2064/)
+
 
 [1](https://urfatheris.ga/projects/1/)
 [1v1.lol](https://urfatheris.ga/projects/1v1.lol/)
@@ -66,11 +66,10 @@ weekly feature: [super mario 64](http://3coursemealgum.ml/projects/super%20mario
 
 [pokemon](https://urfatheris.ga/projects/pokemon/)
 
+
+
 [other sites](https://3coursegummeal.ml/project/othersites/)
 
 
-
-all games go to their respected owners, if you want your game/site removed, tell me.
-also, i removed cookie clicker due to ortiel having a no re-hosting rule, sorry, i respect rules.
 
 [about me](https://urfatheris.ga/aboutme/)
