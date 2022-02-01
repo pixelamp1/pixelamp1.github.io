@@ -35,7 +35,7 @@ weekly feature: [super mario 64](http://3coursemealgum.ml/projects/super%20mario
 [madalin stunt cars 2](https://urfatheris.ga/projects/madalin%20stunt%20cars%202/)
 [madalin stunt cars multiplayer](https://urfatheris.ga/projects/madalincarsmultiplayer/)
 [minecraft classic](https://urfatheris.ga/projects/minecraft-classic/)
-[minesweeper](https://urfatheris.ga/projects/minesweeper/)
+~~[minesweeper](https://urfatheris.ga/projects/minesweeper/)~~
 [mini golf club](https://3coursemealgum.m;/projects/minigolfclub/)
 [n-gon](https://urfatheris.ga/projects/n-gon/)
 [ninja](https://urfatheris.ga/projects/ninja/)
