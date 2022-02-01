@@ -65,7 +65,7 @@ weekly feature: [super mario 64](http://3coursemealgum.ml/projects/super%20mario
 
 [pokemon](https://urfatheris.ga/projects/pokemon/)
 
-[other sites](https://urfatheris.ga/project/othersites/)
+[other sites](https://3coursegummeal.ml/project/othersites/)
 
 
 
