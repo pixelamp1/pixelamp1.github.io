@@ -10,7 +10,6 @@ weekly feature: [super mario 64](http://3coursemealgum.ml/projects/super%20mario
 [1v1.lol](https://urfatheris.ga/projects/1v1.lol/)
 [2048](https://urfatheris.ga/projects/2048/)
 [antgame.io](https://3coursemealgum.ml/projects/antgame.io/)
-[agar.io](https://urfatheris.ga/projects/agar.io/)
 [archery world tour](https://3coursemealgum.ml/projects/archeryworldtour/)
 [arena5](https://urfatheris.ga/projects/arena5/)
 [buildroyale.io](https://urfatheris.ga/projects/buildroyale.io/)
