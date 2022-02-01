@@ -30,7 +30,7 @@ weekly feature: [super mario 64](http://3coursemealgum.ml/projects/super%20mario
 [idle breakout](https://urfatheris.ga/projects/idlebreakout/)
 [idle shark](https://urfatheris.ga/projects/idle-shark/)
 [incognito](https://urfatheris.ga/projects/incognito/)
-[kingdom of loathing](https://http://3coursemealgum.ml/projects/kingdom%20of%20loathing/)
+[kingdom of loathing](https://3coursemealgum.ml/projects/kingdom%20of%20loathing/)
 [krunker.io](https://urfatheris.ga/projects/krunkr/)
 [madalin stunt cars 2](https://urfatheris.ga/projects/madalin%20stunt%20cars%202/)
 [madalin stunt cars multiplayer](https://urfatheris.ga/projects/madalincarsmultiplayer/)
