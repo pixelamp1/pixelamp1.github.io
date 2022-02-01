@@ -50,6 +50,7 @@ weekly feature: [super mario 64](http://3coursemealgum.ml/projects/super%20mario
 [rooftop snipers](https://urfatheris.ga/projects/rooftop-snipers/)
 [sand game](https://urfatheris.ga/projects/sand-game/)
 [shellshock.io](https://urfatheris.ga/projects/shellshock.io/)
+[super smash flash](https://3coursemealgum.ml/projects/supersmashflash/)
 [skribbl.io](https://urfatheris.ga/projects/skribbl.io/)
 [slope](https://3coursemealgum.ml/projects/slope/)
 [super mario 64](http://3coursemealgum.ml/projects/super%20mario%2064/)
