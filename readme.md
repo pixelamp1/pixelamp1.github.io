@@ -1,6 +1,6 @@
 tip: use ctrl+f, and if u dont see ur game, click other sites
 
-hello, if you are reading this, you might be using the .html, `([download for the .html](https://drive.google.com/uc?id=1msZ_bOOGXs1e2GDB64z2D1QznBv0TdmQ&export=download))` in which, i would like to tell you, i am **not** going to be updating all the other domains, when they get taken down, im cancelling the website.
+hello, if you are reading this, you might be using the .html, ( [download for the .html](https://drive.google.com/uc?id=1msZ_bOOGXs1e2GDB64z2D1QznBv0TdmQ&export=download) ) in which, i would like to tell you, i am **not** going to be updating all the other domains, when they get taken down, im cancelling the website.
 
 and also, if you are using the .html, some sites may not work, i will remove these, when said websites go down in my school.
 
