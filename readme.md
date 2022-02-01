@@ -51,7 +51,7 @@ weekly feature: [super mario 64](http://3coursemealgum.ml/projects/super%20mario
 [sand game](https://urfatheris.ga/projects/sand-game/)
 [shellshock.io](https://urfatheris.ga/projects/shellshock.io/)
 [skribbl.io](https://urfatheris.ga/projects/skribbl.io/)
-[slope](https://urfatheris.ga/projects/slope/)
+[slope](https://3coursemealgum.ml/projects/slope/)
 [super mario 64](http://3coursemealgum.ml/projects/super%20mario%2064/)
 [smashkarts.io](https://urfatheris.ga/projects/smashkarts.io/)
 [spelunky](https://urfatheris.ga/projects/spelunkyHTML5/)
