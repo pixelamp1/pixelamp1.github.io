@@ -1,6 +1,6 @@
 tip: use ctrl+f, and if u dont see ur game, click other sites
 
-download so this site is forever unblocked: ([download for the .html](https://drive.google.com/uc?id=1msZ_bOOGXs1e2GDB64z2D1QznBv0TdmQ&export=download)
+download so this site is forever unblocked: [download for the .html](https://drive.google.com/uc?id=1msZ_bOOGXs1e2GDB64z2D1QznBv0TdmQ&export=download)
 (p.s. rename the file)
 
 weekly feature: [super mario 64](http://3coursemealgum.ml/projects/super%20mario%2064/)
