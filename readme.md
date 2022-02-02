@@ -75,4 +75,4 @@ weekly feature: [super mario 64](http://3coursemealgum.ml/projects/super%20mario
 [about me](https://urfatheris.ga/aboutme/)
 
 
-how can you support me? help manage and add games, let me know if ur interested.
+if you wanna see this site's game library grow, then lmk
