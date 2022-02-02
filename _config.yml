@@ -4,3 +4,5 @@ description: a game website for school, yeah, that's really it
 name: pixelamp
 url: https://3coursemealgum.ml/
 repository: "pixelamp-isgay/pixelamp-isgay.github.io"
+
+theme: jekyll-theme-minimal
