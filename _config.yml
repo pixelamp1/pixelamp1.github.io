@@ -2,8 +2,5 @@ title: pixelamp's game library
 subtitle: and sites
 description: a game website for school, yeah, that's really it
 name: pixelamp
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark"
 url: https://3coursemealgum.ml/
 repository: "pixelamp-isgay/pixelamp-isgay.github.io"
-masthead_title: "pixelamp's games"
