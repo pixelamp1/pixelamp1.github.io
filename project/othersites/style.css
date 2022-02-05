@@ -1,6 +1,6 @@
 html {
   background: linear-gradient(227deg, #833ab4, #fcb045);
-  background-size: 100% 100%;
+  background-size: 400% 400%;
 
   -webkit-animation: background 5s ease infinite;
   -moz-animation: background 5s ease infinite;
@@ -79,8 +79,6 @@ h1 {
   animation: scale 2s forwards cubic-bezier(0.5, 1, 0.89, 1);
   font-size: 60px;
   text-shadow: 2px 2px 5px #000000;
-
-  
   
 }
 
