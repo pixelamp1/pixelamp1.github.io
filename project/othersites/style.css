@@ -114,7 +114,7 @@ span:nth-child(2) {
 
 p {
   font-size: 30px;
-  font-family: "geooblique";
+  font-family: "georegular";
   transform: scale(0.97);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
 }
