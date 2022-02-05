@@ -1,6 +1,10 @@
 @font-face {
-    font-family: Geo;
-    src: url('Geo-Regular.ttf'),
+    font-family: 'georegular';
+    src: url('css/fonts/geo-regular-webfont.woff2') format('woff2'),
+         url('css/fonts/geo-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 @font-face {
@@ -9,7 +13,7 @@
 }
 
 h1 {
-  font-family: Geo;
+  font-family: georegular;
 }
 
 selectedrandom {
