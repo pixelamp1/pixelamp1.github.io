@@ -1,3 +1,5 @@
+/* BG */
+
 html {
     background: linear-gradient(146deg, rgba(131,58,180,1) 0%, rgba(252,176,69,1) 100%);
     background-repeat: no-repeat;
@@ -5,6 +7,10 @@ html {
     width: 100%;
     height: 100%;
 }
+
+/* BG */
+
+/* FONTS */
 
 @font-face {
     font-family: 'georegular';
@@ -23,6 +29,10 @@ html {
     font-style: normal;
 
 }
+
+/* FONTS */
+
+/* ANIM OF TITLE BEGIN */
 
 h1 {
   font-family: "georegular";
@@ -58,3 +68,5 @@ span:nth-child(2) {
     filter: blur(0);
   }
 }
+
+/* ANIM OF TITLE END */
