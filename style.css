@@ -156,21 +156,21 @@ h3 {
 
 h4 {
   font-size: 40px;
-  font-family: "geoitalic";
+  font-family: "geooblique";
   transform: scale(0.97);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
 }
 
 h6 {
   font-size: 20px;
-  font-family: "geoitalic";
+  font-family: "geooblique";
   margin-top: 30%;
 
 }
 
 p {
   font-size: 30px;
-  font-family: "geoitalic";
+  font-family: "geooblique";
   transform: scale(0.97);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
 }
