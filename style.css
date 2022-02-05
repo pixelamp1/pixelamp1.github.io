@@ -116,7 +116,7 @@ span:nth-child(2) {
 h2 {
   font-size: 40px;
   font-family: "geooblique";
-  transform: scale(0.94);
+  transform: scale(0.90);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
 }
 
