@@ -17,13 +17,9 @@
 }
 
 h1 {
-  font-family: georegular;
+  font-family: monospace;
 }
 
-selectedrandom {
-  font-family: geooblique;
-}
-
-random {
-  font-family: geooblique;
+#listing {
+   font-family: monospace;
 }
