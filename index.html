@@ -5,12 +5,15 @@
 </head>
  <body>
   <h1> Pixelamp's Games </h1>
- <ul> id="list">
-  pixelamp
-  not
-  pixelampaaaa
-  pixelamppixelamp
-  </ul>
+<div> id="listing">
+
+<ul>
+<li>pixelamp</li>
+<li>not</li>
+<li>pixelampaaaa</li>
+<li>pixelamppixelamp</li>
+</ul>
+</div>
 </body>
 <script>
 function randomizeItems(items)
@@ -27,7 +30,7 @@ function randomizeItems(items)
 }
 function randomizeList()
 {
-var list = document.getElementById("list");
+var list = document.getElementById("listing");
     var nodes = list.children, i = 0;
     nodes = Array.prototype.slice.call(nodes);
     nodes = randomizeItems(nodes);
