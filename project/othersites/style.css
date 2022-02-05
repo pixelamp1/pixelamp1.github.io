@@ -6,6 +6,7 @@ html {
     -moz-animation: 6s ease infinite;
     -o-animation:6s ease infinite;
     animation: 6s ease infinite;
+}
 
 @-webkit-keyframes background {
     0%{background-position:0% 38%}
@@ -26,7 +27,6 @@ html {
     0%{background-position:0% 38%}
     50%{background-position:100% 63%}
     100%{background-position:0% 38%}
-}
 }
 /* kjfklghjdf */
 
