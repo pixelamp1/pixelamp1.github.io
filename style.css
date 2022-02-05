@@ -42,6 +42,7 @@ h1 {
   animation: scale 5s forwards cubic-bezier(0.5, 1, 0.89, 1);
   font-size: 60px;
   text-shadow: 2px 2px 5px #000000;
+
 }
 @keyframes scale {
   100% {
@@ -71,6 +72,43 @@ span:nth-child(2) {
 
 /* ANIM OF TITLE END */
 
+/* MAIN TEXT EDITING */
+
+h3 {
+  font-size: 20px;
+  font-family: "georegular";
+  text-align: right;
+}
+
+h4 {
+  font-size: 40px;
+  font-family: "geoitalic";
+}
+
 p {
-  font-size: 12px;
+  font-size: 30px;
+  font-family: "geoitalic";
+}
+
+/*hyperlink colors*/
+
+/* unvisited link */
+a:link {
+  color: #000000;
+  text-decoration: none;
+}
+/* visited link */
+a:visited {
+  color: #5E2981;
+  text-decoration: none;
+}
+/* mouse over link */
+a:hover {
+  color: #815E98;
+  text-decoration: none;
+}
+/* selected link */
+a:active {
+  color: #CA954B;
+  text-decoration: none;
 }
