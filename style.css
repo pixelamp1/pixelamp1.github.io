@@ -1,32 +1,50 @@
 /* BG */
 
 html {
-    background: linear-gradient(146deg, rgba(131,58,180,1) 0%, rgba(252,176,69,1) 100%);
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
+    background: linear-gradient(227deg, #833ab4, #fcb045);
+    background-size: 150% 150%;
+
+    -webkit-animation: background 1s ease infinite;
+    -moz-animation: background 1s ease infinite;
+    animation: background 1s ease infinite;
 }
 
-/* BG */
+@-webkit-keyframes background {
+    0%{background-position:22% 0%}
+    50%{background-position:79% 100%}
+    100%{background-position:22% 0%}
+}
+@-moz-keyframes background {
+    0%{background-position:22% 0%}
+    50%{background-position:79% 100%}
+    100%{background-position:22% 0%}
+}
+@keyframes background {
+    0%{background-position:22% 0%}
+    50%{background-position:79% 100%}
+    100%{background-position:22% 0%}
+
+}
+
+/* BG/TEXT */
 
 /* FONTS */
 
 @font-face {
-    font-family: 'georegular';
-    src: url('css/fonts/Geo/geo-regular-webfont.woff2') format('woff2'),
-         url('css/fonts/Geo/geo-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'georegular';
+  src: url('css/fonts/Geo/geo-regular-webfont.woff2') format('woff2'),
+    url('css/fonts/Geo/geo-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 
 }
 
 @font-face {
-    font-family: 'geooblique';
-    src: url('css/fonts/GeoItalic/geo-italic-webfont.woff2') format('woff2'),
-         url('css/fonts/GeoItalic/geo-italic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'geooblique';
+  src: url('css/fonts/GeoItalic/geo-italic-webfont.woff2') format('woff2'),
+    url('css/fonts/GeoItalic/geo-italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 
 }
 
@@ -44,6 +62,7 @@ h1 {
   text-shadow: 2px 2px 5px #000000;
 
 }
+
 @keyframes scale {
   100% {
     transform: scale(1);
@@ -63,6 +82,7 @@ span:nth-child(1) {
 span:nth-child(2) {
   animation: fade-in 0.8s 0.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
 }
+
 @keyframes fade-in {
   100% {
     opacity: 1;
@@ -83,12 +103,18 @@ h3 {
 
 h4 {
   font-size: 40px;
-  font-family: "geooblique";
+  font-family: "geoitalic";
+}
+
+h6 {
+  font-size: 20px;
+  font-family: "geoitalic";
+    margin-top: 30%;
 }
 
 p {
   font-size: 30px;
-  font-family: "geooblique";
+  font-family: "geoitalic";
 }
 
 /*hyperlink colors*/
@@ -98,21 +124,24 @@ a:link {
   color: #000000;
   text-decoration: none;
 }
+
 /* visited link */
 a:visited {
-  color: #5E2981;
+  color: #111111;
   text-decoration: none;
   text-shadow: 2px 2px 5px #000000;
 }
+
 /* mouse over link */
 a:hover {
-  color: #815E98;
+  color: #000000;
   text-decoration: none;
-  text-shadow: 2px 2px 5px #815E98;
+  text-shadow: 2px 2px 5px #111111;
 }
+
 /* selected link */
 a:active {
-  color: #CA954B;
+  color: #111111;
   text-decoration: none;
-  text-shadow: 2px 2px 5px #CA954B;
+  text-shadow: 2px 2px 5px #111111;
 }
