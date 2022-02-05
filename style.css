@@ -115,6 +115,13 @@ span:nth-child(2) {
 
 /* MAIN TEXT EDITING */
 
+h2 {
+  font-size: 20px;
+  font-family: "geooblique";
+  transform: scale(0.97);
+  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+}
+
 h3 {
   font-size: 20px;
   font-family: "georegular";
