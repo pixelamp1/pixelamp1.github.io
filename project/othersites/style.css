@@ -115,36 +115,6 @@ span:nth-child(2) {
 
 /* MAIN TEXT EDITING */
 
-h2 {
-  font-size: 40px;
-  font-family: "geooblique";
-  transform: scale(0.90);
-  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
-}
-
-h3 {
-  font-size: 20px;
-  font-family: "georegular";
-  text-align: right;
-  text-shadow: 2px 2px 10px #000000;
-  transform: scale(0.94);
-  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
-}
-
-h4 {
-  font-size: 40px;
-  font-family: "geooblique";
-  transform: scale(0.97);
-  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
-}
-
-h6 {
-  font-size: 20px;
-  font-family: "geooblique";
-  margin-top: 30%;
-
-}
-
 p {
   font-size: 30px;
   font-family: "geooblique";
