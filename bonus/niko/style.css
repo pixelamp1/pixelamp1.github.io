@@ -50,8 +50,40 @@ html {
 
 }
 
+@font-face {
+  font-family: 'geooblique';
+  src: url('css/fonts/geoi/geo-italic-webfont.woff2') format('woff2'),
+    url('css/fonts/geoi/geo-italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+/* FONTS */
+
+/* ANIM OF TITLE BEGIN */
+
+h1 {
+  font-family: "georegular";
+  max-width: 100ch;
+  text-align: left;
+  transform: scale(0.80);
+  animation: scale 2s forwards cubic-bezier(0.5, 1, 0.89, 1);
+  font-size: 60px;
+  text-shadow: 2px 2px 5px #000000;
+
+}
 
 niko1.jpg {
 width: 50%;
 height: 50%;
+      width: 400px;
+      height: 200px;
+      border:2px solid #fff;
+background: url(bonus/niko/niko1.jpg) no-repeat;
+box-shadow: 10px 10px 5px #ccc;
+-moz-box-shadow: 10px 10px 5px #ccc;
+-webkit-box-shadow: 10px 10px 5px #ccc;
+-khtml-box-shadow: 10px 10px 5px #ccc;
 }
+
