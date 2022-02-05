@@ -24,13 +24,8 @@ html {
 
 }
 
-* {
-  padding: 0;
-  margin: 0;
-}
-
 h1 {
-  font-family: Comic Sans MS;
+  font-family: "georegular";
   max-width: 100ch;
   text-align: left;
   transform: scale(0.94);
