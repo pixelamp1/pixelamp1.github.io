@@ -17,13 +17,13 @@ html {
 
 @font-face {
     font-family: 'geooblique';
-    src: url('css/fonts/geo/geo-italic-webfont.woff2') format('woff2'),
-         url('css/fonts/geo/geo-italic-webfont.woff') format('woff');
+    src: url('css/fonts/geoitalic/geo-italic-webfont.woff2') format('woff2'),
+         url('css/fonts/geoitalic/geo-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 
 h1 {
-  font-family: geooblique;
+  font-family: georegular;
 }
