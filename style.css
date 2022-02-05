@@ -1,5 +1,3 @@
-/* BG */
-
 html {
   background: linear-gradient(227deg, #833ab4, #fcb045);
   background-size: 100% 100%;
@@ -116,9 +114,9 @@ span:nth-child(2) {
 /* MAIN TEXT EDITING */
 
 h2 {
-  font-size: 20px;
+  font-size: 40px;
   font-family: "geooblique";
-  transform: scale(0.97);
+  transform: scale(0.94);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
 }
 
