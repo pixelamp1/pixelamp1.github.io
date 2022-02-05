@@ -5,6 +5,8 @@ html {
   -webkit-animation: background 5s ease infinite;
   -moz-animation: background 5s ease infinite;
   animation: background 5s ease infinite;
+  
+  scroll-behavior: smooth;
 }
 
 @-webkit-keyframes background {
