@@ -32,7 +32,7 @@ html {
 h1 {
   font-family: "georegular";
   max-width: 100ch;
-  text-align: right;
+  text-align: left;
   transform: scale(0.94);
   animation: scale 5s forwards cubic-bezier(0.5, 1, 0.89, 1);
   font-size: 60px;
