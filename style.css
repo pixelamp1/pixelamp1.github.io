@@ -1,3 +1,6 @@
+background: rgb(0,0,0);
+background: linear-gradient(312deg, rgba(0,0,0,1) 51%, rgba(150,150,150,1) 100%);
+
 @font-face {
     font-family: 'georegular';
     src: url('css/fonts/geo-regular-webfont.woff2') format('woff2'),
@@ -18,4 +21,5 @@
 
 h1 {
   font-family: geooblique;
+  color: #8e8e8e;
 }
