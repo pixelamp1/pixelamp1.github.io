@@ -78,6 +78,7 @@ h3 {
   font-size: 20px;
   font-family: "georegular";
   text-align: right;
+  text-shadow: 2px 2px 10px #000000;
 }
 
 h4 {
@@ -101,14 +102,17 @@ a:link {
 a:visited {
   color: #5E2981;
   text-decoration: none;
+  text-shadow: 2px 2px 5px #000000;
 }
 /* mouse over link */
 a:hover {
   color: #815E98;
   text-decoration: none;
+  text-shadow: 2px 2px 5px #815E98;
 }
 /* selected link */
 a:active {
   color: #CA954B;
   text-decoration: none;
+  text-shadow: 2px 2px 5px #CA954B;
 }
