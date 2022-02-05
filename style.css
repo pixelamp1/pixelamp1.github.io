@@ -1,3 +1,13 @@
+@font-face {
+    font-family: Geo;
+    src: url('Geo-Regular.ttf'),
+}
+
+@font-face {
+    font-family: Geo-Italic;
+    src: url('Geo-Italic.ttf'),
+}
+
 h1 {
   font-family: sans-serif;
 }
