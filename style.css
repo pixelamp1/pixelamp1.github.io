@@ -25,5 +25,7 @@ html {
 }
 
 h1 {
-  font-family: geooblique;
+  font-family: georegular;
+  text-shadow: -3 -1px 5px black;
+  text-size: 60px;
 }
