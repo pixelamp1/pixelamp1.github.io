@@ -8,8 +8,12 @@
 }
 
 @font-face {
-    font-family: Geo-Italic;
-    src: url('Geo-Italic.ttf'),
+    font-family: 'geooblique';
+    src: url('css/fonts/geo-italic-webfont.woff2') format('woff2'),
+         url('css/fonts/geo-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 h1 {
@@ -17,9 +21,9 @@ h1 {
 }
 
 selectedrandom {
-  font-family: Geo-Italic;
+  font-family: geooblique;
 }
 
 random {
-  font-family: Geo-Italic;
+  font-family: geooblique;
 }
