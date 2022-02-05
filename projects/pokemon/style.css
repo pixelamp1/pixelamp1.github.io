@@ -28,6 +28,7 @@ html {
     50%{background-position:100% 63%}
     100%{background-position:0% 38%}
 }
+/* kjfklghjdf */
 
 @font-face {
   font-family: 'geooblique';
@@ -93,7 +94,7 @@ span:nth-child(2) {
 
 p {
   font-size: 30px;
-  font-family: "georegular";
+  font-family: "geooblique";
   transform: scale(0.97);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
 }
