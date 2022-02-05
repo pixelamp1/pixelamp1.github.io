@@ -3,8 +3,8 @@ background: linear-gradient(312deg, rgba(0,0,0,1) 51%, rgba(150,150,150,1) 100%)
 
 @font-face {
     font-family: 'georegular';
-    src: url('css/fonts/geo-regular-webfont.woff2') format('woff2'),
-         url('css/fonts/geo-regular-webfont.woff') format('woff');
+    src: url('css/fonts/Geo/geo-regular-webfont.woff2') format('woff2'),
+         url('css/fonts/Geo/geo-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -12,8 +12,8 @@ background: linear-gradient(312deg, rgba(0,0,0,1) 51%, rgba(150,150,150,1) 100%)
 
 @font-face {
     font-family: 'geooblique';
-    src: url('css/fonts/geo-italic-webfont.woff2') format('woff2'),
-         url('css/fonts/geo-italic-webfont.woff') format('woff');
+    src: url('css/fonts/Geo/geo-italic-webfont.woff2') format('woff2'),
+         url('css/fonts/Geo/geo-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
