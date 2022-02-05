@@ -1,9 +1,9 @@
 # A browser game website!
 
-This repository contains iframes of games, or the source code, it's updated sometimes, and thats really it.
+### This repository contains iframes of games, or the source code, it's updated sometimes, and thats really it.
 
 
-I made this and will keep updating it for my school.
+## I made this and will keep updating it for my school.
 
 Features (not much):
 - Browser game websites INSIDE of browser games webites.
