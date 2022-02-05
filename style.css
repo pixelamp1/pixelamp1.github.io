@@ -1,32 +1,83 @@
 /* BG */
 
 html {
-    background: linear-gradient(227deg, #833ab4, #fcb045);
-    background-size: 150% 150%;
+  background: linear-gradient(227deg, #833ab4, #fcb045);
+  background-size: 230% 230%;
 
-    -webkit-animation: background 1s ease infinite;
-    -moz-animation: background 1s ease infinite;
-    animation: background 1s ease infinite;
+  -webkit-animation: background 5s ease infinite;
+  -moz-animation: background 5s ease infinite;
+  animation: background 5s ease infinite;
 }
 
 @-webkit-keyframes background {
-    0%{background-position:22% 0%}
-    50%{background-position:79% 100%}
-    100%{background-position:22% 0%}
+  0% {
+    background-position: 22% 0%
+  }
+
+  50% {
+    background-position: 79% 100%
+  }
+
+  100% {
+    background-position: 22% 0%
+  }
 }
+
 @-moz-keyframes background {
-    0%{background-position:22% 0%}
-    50%{background-position:79% 100%}
-    100%{background-position:22% 0%}
+  0% {
+    background-position: 22% 0%
+  }
+
+  50% {
+    background-position: 79% 100%
+  }
+
+  100% {
+    background-position: 22% 0%
+  }
 }
+
 @keyframes background {
-    0%{background-position:22% 0%}
-    50%{background-position:79% 100%}
-    100%{background-position:22% 0%}
+  0% {
+    background-position: 22% 0%
+  }
+
+  50% {
+    background-position: 79% 100%
+  }
+
+  100% {
+    background-position: 22% 0%
+  }
 
 }
 
-/* BG/TEXT */
+/* BG END/TEXT */
+
+.lineup {
+  animation: 2s anim-lineUp ease-out infinite;
+}
+
+@keyframes anim-lineup {
+  0% {
+    opacity: 0;
+    transform: translateY(80%);
+  }
+
+  20% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+}
 
 /* FONTS */
 
@@ -41,8 +92,8 @@ html {
 
 @font-face {
   font-family: 'geooblique';
-  src: url('css/fonts/geoi/geo-italic-webfont.woff2') format('woff2'),
-    url('css/fonts/geoi/geo-italic-webfont.woff') format('woff');
+  src: url('css/fonts/GeoItalic/geo-italic-webfont.woff2') format('woff2'),
+    url('css/fonts/GeoItalic/geo-italic-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -56,8 +107,8 @@ h1 {
   font-family: "georegular";
   max-width: 100ch;
   text-align: left;
-  transform: scale(0.94);
-  animation: scale 5s forwards cubic-bezier(0.5, 1, 0.89, 1);
+  transform: scale(0.80);
+  animation: scale 2s forwards cubic-bezier(0.5, 1, 0.89, 1);
   font-size: 60px;
   text-shadow: 2px 2px 5px #000000;
 
@@ -76,11 +127,11 @@ span {
 }
 
 span:nth-child(1) {
-  animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  animation: fade-in 0.3s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
 }
 
 span:nth-child(2) {
-  animation: fade-in 0.8s 0.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  animation: fade-in 0.3s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
 }
 
 @keyframes fade-in {
@@ -99,22 +150,29 @@ h3 {
   font-family: "georegular";
   text-align: right;
   text-shadow: 2px 2px 10px #000000;
+  transform: scale(0.94);
+  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
 }
 
 h4 {
   font-size: 40px;
-  font-family: "geooblique";
+  font-family: "geoitalic";
+  transform: scale(0.97);
+  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
 }
 
 h6 {
   font-size: 20px;
-  font-family: "geooblique";
-    margin-top: 30%;
+  font-family: "geoitalic";
+  margin-top: 30%;
+
 }
 
 p {
   font-size: 30px;
-  font-family: "geooblique";
+  font-family: "geoitalic";
+  transform: scale(0.97);
+  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
 }
 
 /*hyperlink colors*/
