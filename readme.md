@@ -10,7 +10,7 @@ Features (not much):
 - Updated. (usually..)
 - Cool lookin'
 
-*if you want your game removed, let me know!*
+*if you want your game removed/have any copyright issues, let me know!*
 
 ![icon](favicon.ico)
 
