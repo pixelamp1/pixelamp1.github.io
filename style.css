@@ -30,7 +30,7 @@ html {
 }
 
 @font-face {
-  font-family: 'geooblique';
+  font-family: 'montserratitalic';
   src: url('css/fonts/montserratitalic/montserrat-italic-variablefont_wght-webfont.woff2') format('woff2'),
     url('css/fonts/montserratitalic/montserrat-italic-variablefont_wght-webfont.woff') format('woff');
   font-weight: normal;
@@ -168,4 +168,5 @@ button {
   -moz-animation: 6s ease infinite;
   -o-animation:6s ease infinite;
   animation: 6s ease infinite;
+  border-radius: 8px;
 }
