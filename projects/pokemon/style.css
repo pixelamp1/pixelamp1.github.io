@@ -1,56 +1,34 @@
 html {
-  background: linear-gradient(227deg, #833ab4, #fcb045);
-  background-size: 100% 100%;
+    background: linear-gradient(227deg, #833ab4, #fcb045);
+    background-size: 400% 400%;
 
-  -webkit-animation: background 5s ease infinite;
-  -moz-animation: background 5s ease infinite;
-  animation: background 5s ease infinite;
-  
-  scroll-behavior: smooth;
+    -webkit-animation: 6s ease infinite;
+    -moz-animation: 6s ease infinite;
+    -o-animation:6s ease infinite;
+    animation: 6s ease infinite;
 }
 
 @-webkit-keyframes background {
-  0% {
-    background-position: 22% 0%
-  }
-
-  50% {
-    background-position: 79% 100%
-  }
-
-  100% {
-    background-position: 22% 0%
-  }
+    0%{background-position:0% 38%}
+    50%{background-position:100% 63%}
+    100%{background-position:0% 38%}
 }
-
 @-moz-keyframes background {
-  0% {
-    background-position: 22% 0%
-  }
-
-  50% {
-    background-position: 79% 100%
-  }
-
-  100% {
-    background-position: 22% 0%
-  }
+    0%{background-position:0% 38%}
+    50%{background-position:100% 63%}
+    100%{background-position:0% 38%}
 }
-
+@-o-keyframes background {
+    0%{background-position:0% 38%}
+    50%{background-position:100% 63%}
+    100%{background-position:0% 38%}
+}
 @keyframes background {
-  0% {
-    background-position: 22% 0%
-  }
-
-  50% {
-    background-position: 79% 100%
-  }
-
-  100% {
-    background-position: 22% 0%
-  }
-
+    0%{background-position:0% 38%}
+    50%{background-position:100% 63%}
+    100%{background-position:0% 38%}
 }
+/* kjfklghjdf */
 
 @font-face {
   font-family: 'geooblique';
@@ -79,8 +57,6 @@ h1 {
   animation: scale 2s forwards cubic-bezier(0.5, 1, 0.89, 1);
   font-size: 60px;
   text-shadow: 2px 2px 5px #000000;
-
-  
   
 }
 
@@ -88,7 +64,6 @@ h1 {
   100% {
     transform: scale(1);
   }
-}
 
 span {
   display: inline-block;
@@ -109,6 +84,8 @@ span:nth-child(2) {
     opacity: 1;
     filter: blur(0);
   }
+}
+
 }
 
 /* ANIM OF TITLE END */
