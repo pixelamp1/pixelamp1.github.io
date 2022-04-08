@@ -38,7 +38,7 @@ html {
 }
 
 @font-face {
-    font-family: 'georegular';
+    font-family: 'montserrat';
     src: url('css/fonts/Geo/geo-regular-webfont.woff2') format('woff2'),
          url('css/fonts/Geo/geo-regular-webfont.woff') format('woff');
     font-weight: normal;
@@ -57,8 +57,8 @@ h1 {
   font-size: 60px;
   text-shadow: 2px 2px 5px #000000;
 
-  
-  
+
+
 }
 
 @keyframes scale {
