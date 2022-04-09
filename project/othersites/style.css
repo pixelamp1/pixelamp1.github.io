@@ -1,34 +1,33 @@
 html {
-  background: linear-gradient(154deg, #00dbde, #fc00ff);
-    background-size: 400% 400%;
+  background: linear-gradient(130deg, #00dbde, #fc00ff);
+  background-size: 400% 400%;
 
-    -webkit-animation: background 17s ease infinite;
-    -moz-animation: background 17s ease infinite;
-    -o-animation: background 17s ease infinite;
-    animation: background 17s ease infinite;
+  -webkit-animation: bg 8s ease infinite;
+  -moz-animation: bg 8s ease infinite;
+  -o-animation: bg 8s ease infinite;
+  animation: bg 8s ease infinite;
 }
 
-@-webkit-keyframes background {
-    0%{background-position:0% 27%}
-    50%{background-position:100% 74%}
-    100%{background-position:0% 27%}
+@-webkit-keyframes bg {
+  0%{background-position:91% 0%}
+  50%{background-position:10% 100%}
+  100%{background-position:91% 0%}
 }
-@-moz-keyframes background {
-    0%{background-position:0% 27%}
-    50%{background-position:100% 74%}
-    100%{background-position:0% 27%}
+@-moz-keyframes bg {
+  0%{background-position:91% 0%}
+  50%{background-position:10% 100%}
+  100%{background-position:91% 0%}
 }
-@-o-keyframes background {
-    0%{background-position:0% 27%}
-    50%{background-position:100% 74%}
-    100%{background-position:0% 27%}
+@-o-keyframes bg {
+  0%{background-position:91% 0%}
+  50%{background-position:10% 100%}
+  100%{background-position:91% 0%}
 }
-@keyframes background {
-    0%{background-position:0% 27%}
-    50%{background-position:100% 74%}
-    100%{background-position:0% 27%}
+@keyframes bg {
+  0%{background-position:91% 0%}
+  50%{background-position:10% 100%}
+  100%{background-position:91% 0%}
 }
-/* kjfklghjdf */
 
 @font-face {
   font-family: 'montserratitalic';
