@@ -1,32 +1,33 @@
 html {
-    background: linear-gradient(227deg, #833ab4, #fcb045);
-    background-size: 100% 100%;
+  background: linear-gradient(125deg, #00dbde, #fc00ff);
+  background-size: 400% 400%;
 
-    -webkit-animation: 6s ease infinite;
-    -moz-animation: 6s ease infinite;
-    -o-animation:6s ease infinite;
-    animation: 6s ease infinite;
+  -webkit-animation: background 6s ease infinite;
+  -moz-animation: background 6s ease infinite;
+  -o-animation: background 6s ease infinite;
+  animation: background 6s ease infinite;
 }
 
 @-webkit-keyframes background {
-    0%{background-position:0% 38%}
-    50%{background-position:100% 63%}
-    100%{background-position:0% 38%}
+  0%{background-position:0% 4%}
+  50%{background-position:100% 97%}
+  100%{background-position:0% 4%}
 }
 @-moz-keyframes background {
-    0%{background-position:0% 38%}
-    50%{background-position:100% 63%}
-    100%{background-position:0% 38%}
+  0%{background-position:0% 4%}
+  50%{background-position:100% 97%}
+  100%{background-position:0% 4%}
 }
 @-o-keyframes background {
-    0%{background-position:0% 38%}
-    50%{background-position:100% 63%}
-    100%{background-position:0% 38%}
+  0%{background-position:0% 4%}
+  50%{background-position:100% 97%}
+  100%{background-position:0% 4%}
 }
 @keyframes background {
-    0%{background-position:0% 38%}
-    50%{background-position:100% 63%}
-    100%{background-position:0% 38%}
+  0%{background-position:0% 4%}
+  50%{background-position:100% 97%}
+  100%{background-position:0% 4%}
+}
 }
 
 @font-face {
@@ -125,8 +126,8 @@ h6 {
 
 p {
   font-size: 30px;
-  font-family: "montserratitalic";
-  transform: scale(0.97);
+  font-family: "montserrat";
+  transform: scale(0.69);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
   color: #E9E9E9;
 }
@@ -170,4 +171,5 @@ button {
   animation: 6s ease infinite;
   border-radius: 4px;
   border: none;
+  font-family: "montserrat";
 }
