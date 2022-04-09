@@ -1,4 +1,4 @@
-#[A browser game website!](https://pixes.ml)
+# [A browser game website!](https://pixes.ml)
 
 Features (not much):
 - Browser game websites INSIDE of browser games websites.
