@@ -163,12 +163,7 @@ a:active {
 
 button {
   background: linear-gradient(125deg, #00BFC2,#DE00E1);
-  background-size: 150% 150%;
-
-  -webkit-animation: 6s ease infinite;
-  -moz-animation: 6s ease infinite;
-  -o-animation:6s ease infinite;
-  animation: 6s ease infinite;
+  background-size: 400% 400%;
   border-radius: 4px;
   border: none;
   font-family: "montserrat";
