@@ -1,47 +1,47 @@
 html {
-    background: linear-gradient(227deg, #833ab4, #fcb045);
+  background: linear-gradient(154deg, #00dbde, #fc00ff);
     background-size: 400% 400%;
 
-    -webkit-animation: 6s ease infinite;
-    -moz-animation: 6s ease infinite;
-    -o-animation:6s ease infinite;
-    animation: 6s ease infinite;
+    -webkit-animation: background 17s ease infinite;
+    -moz-animation: background 17s ease infinite;
+    -o-animation: background 17s ease infinite;
+    animation: background 17s ease infinite;
 }
 
 @-webkit-keyframes background {
-    0%{background-position:0% 38%}
-    50%{background-position:100% 63%}
-    100%{background-position:0% 38%}
+    0%{background-position:0% 27%}
+    50%{background-position:100% 74%}
+    100%{background-position:0% 27%}
 }
 @-moz-keyframes background {
-    0%{background-position:0% 38%}
-    50%{background-position:100% 63%}
-    100%{background-position:0% 38%}
+    0%{background-position:0% 27%}
+    50%{background-position:100% 74%}
+    100%{background-position:0% 27%}
 }
 @-o-keyframes background {
-    0%{background-position:0% 38%}
-    50%{background-position:100% 63%}
-    100%{background-position:0% 38%}
+    0%{background-position:0% 27%}
+    50%{background-position:100% 74%}
+    100%{background-position:0% 27%}
 }
 @keyframes background {
-    0%{background-position:0% 38%}
-    50%{background-position:100% 63%}
-    100%{background-position:0% 38%}
+    0%{background-position:0% 27%}
+    50%{background-position:100% 74%}
+    100%{background-position:0% 27%}
 }
 /* kjfklghjdf */
 
 @font-face {
-  font-family: 'geooblique';
-  src: url('css/fonts/geoi/geo-italic-webfont.woff2') format('woff2'),
-    url('css/fonts/geoi/geo-italic-webfont.woff') format('woff');
+  font-family: 'montserratitalic';
+  src: url('css/fonts/montserratitalic/montserrat-italic-variablefont_wght-webfont.woff2') format('woff2'),
+    url('css/fonts/montserratitalic/montserrat-italic-variablefont_wght-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-    font-family: 'georegular';
-    src: url('css/fonts/Geo/geo-regular-webfont.woff2') format('woff2'),
-         url('css/fonts/Geo/geo-regular-webfont.woff') format('woff');
+    font-family: 'montserrat';
+    src: url('css/fonts/montserrat/montserrat-variablefont_wght-webfont.woff2') format('woff2'),
+         url('css/fonts/montserrat/montserrat-variablefont_wght-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -50,14 +50,14 @@ html {
 /* ANIM OF TITLE BEGIN */
 
 h1 {
-  font-family: "georegular";
+  font-family: "montserrat";
   max-width: 100ch;
   text-align: left;
   transform: scale(0.80);
   animation: scale 2s forwards cubic-bezier(0.5, 1, 0.89, 1);
   font-size: 60px;
-  text-shadow: 2px 2px 5px #000000;
-  
+  text-shadow: 2px 2px 5px #D7D7D7;
+color: #D7D7D7;
 }
 
 @keyframes scale {
@@ -94,36 +94,37 @@ span:nth-child(2) {
 
 p {
   font-size: 30px;
-  font-family: "geooblique";
+  font-family: "montserrat";
   transform: scale(0.97);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+  color: #E9E9E9;
 }
 
 /*hyperlink colors*/
 
 /* unvisited link */
 a:link {
-  color: #000000;
+  color: #E9E9E9;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #111111;
+  color: #D7D7D7;
   text-decoration: none;
-  text-shadow: 2px 2px 5px #000000;
+  text-shadow: 2px 2px 5px #D7D7D7;
 }
 
 /* mouse over link */
 a:hover {
-  color: #000000;
+  color: #FFFFFF;
   text-decoration: none;
-  text-shadow: 2px 2px 5px #111111;
+  text-shadow: 2px 2px 5px #FFFFFF;
 }
 
 /* selected link */
 a:active {
-  color: #111111;
+  color: #D7D7D7;
   text-decoration: none;
-  text-shadow: 2px 2px 5px #111111;
+  text-shadow: 2px 2px 5px #D7D7D7;
 }
