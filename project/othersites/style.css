@@ -1,32 +1,26 @@
 html {
-  background: linear-gradient(130deg, #00dbde, #fc00ff);
+  background: linear-gradient(314deg, #00fdff, #f200ff);
   background-size: 400% 400%;
 
-  -webkit-animation: bg 8s ease infinite;
-  -moz-animation: bg 8s ease infinite;
-  -o-animation: bg 8s ease infinite;
-  animation: bg 8s ease infinite;
+  -webkit-animation: backg 12s ease infinite;
+  -moz-animation: backg 12s ease infinite;
+  animation: backg 12s ease infinite;
 }
 
-@-webkit-keyframes bg {
-  0%{background-position:91% 0%}
-  50%{background-position:10% 100%}
-  100%{background-position:91% 0%}
+@-webkit-keyframes backg {
+  0%{background-position:0% 68%}
+  50%{background-position:100% 33%}
+  100%{background-position:0% 68%}
 }
-@-moz-keyframes bg {
-  0%{background-position:91% 0%}
-  50%{background-position:10% 100%}
-  100%{background-position:91% 0%}
+@-moz-keyframes backg {
+  0%{background-position:0% 68%}
+  50%{background-position:100% 33%}
+  100%{background-position:0% 68%}
 }
-@-o-keyframes bg {
-  0%{background-position:91% 0%}
-  50%{background-position:10% 100%}
-  100%{background-position:91% 0%}
-}
-@keyframes bg {
-  0%{background-position:91% 0%}
-  50%{background-position:10% 100%}
-  100%{background-position:91% 0%}
+@keyframes backg {
+  0%{background-position:0% 68%}
+  50%{background-position:100% 33%}
+  100%{background-position:0% 68%}
 }
 
 @font-face {
